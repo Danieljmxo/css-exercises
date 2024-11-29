@@ -1,0 +1,21 @@
+.number1{
+background-color: #fc9999;
+font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#number2{
+color: #0d0dfd; 
+font-size: 36px;   
+}
+
+.number3{
+background-color: #fc9999;
+font-family: Verdana, Dejavu Sans, sans-serif;
+font-size: 24px;
+}
+
+#number4{
+    background-color: #6ce76c;
+    font-size: 24px;
+    font-weight: bold;
+}
